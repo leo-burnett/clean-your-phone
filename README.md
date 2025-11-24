@@ -5,7 +5,7 @@ A simple resource and guide on how and why you should clean your phone from need
 
 The resources on Clean Your Phone are meant to be created, adapted, and shared. They are best enjoyed in a group setting.
 
-To download the current version of the zine in printable format, you can go here: 
+To download the current version of the zine in printable format, [you can go here](https://leo-burnett.github.io/clean-your-phone/zine/print.pdf) 
 
 To read the zine, head over to the wiki.
 
